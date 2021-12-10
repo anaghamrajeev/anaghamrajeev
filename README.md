@@ -1,7 +1,7 @@
 ### Hi there, I'm Anagha 👋
 
 - 🔭 I work as a Software Engineer [@Shell](https://www.shell.in/) to analyse and predict greenhouse gas emissions. 
-- 👀 I’m interested in AI for sustainability, reinforcement learning, self-supervised learning  
+- 👀 I’m interested in AI for sustainability, applications of reinforcement learning & self-supervised learning  
 - 🌱 I’m currently learning the mathematics behind self-supervised learning.
 - 👯 I’m looking to collaborate on developing energy-efficient AI systems. 
 - 📫 How to reach me: [LinkedIn](linkedin.com/in/anaghamrajeev) , [Twitter](twitter.com/anaghamrajeev)
