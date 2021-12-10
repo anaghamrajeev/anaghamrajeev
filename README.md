@@ -1,5 +1,12 @@
 ### Hi there, I'm Anagha 👋
 
+- 👀 I’m interested in AI for sustainability, reinforcement learning, self-supervised learning  
+- 🔭 I work as a Software Engineer at Shell to analyse and predict greenhouse gas emissions. 
+- 🌱 I’m currently learning the mathematics behind self-supervised learning.
+- 👯 I’m looking to collaborate on developing energy-efficient AI systems. 
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/anaghamrajeev) , [Twitter](twitter.com/anaghamrajeev)
+- 😄 Pronouns: she/her
+
 <!--
 **anaghamrajeev/anaghamrajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
