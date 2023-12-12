@@ -1,8 +1,8 @@
 ### Hi there, I'm Anagha 👋
 
 - 🔭 I am a graduate student at TU Delft (Computer Science). 
-- 👀 I’m interested in AI for sustainability, applications of reinforcement learning & self-supervised learning  
-- 🌱 I’m currently learning the mathematics behind deep reinforcement learning.
+- 👀 I’m interested in AI-driven multidisciplinary research in human-centered computing and social robotics. 
+- 🌱 I’m currently learning the to develop different applications on the Pepper robot.
 - 📫 How to reach me: [LinkedIn](linkedin.com/in/anaghamrajeev) , [Twitter](twitter.com/anaghamrajeev)
 - 😄 Pronouns: she/her
 
